@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=")QG)`6:l%=[#C3q|4!!1">myImage</variable></variables><block type="pxt-on-start" id="-]r4RxjSY+sYtk-VM/h3" x="0" y="0"><statement name="HANDLER"><block type="device_show_image_offset" id="d8(}F.b8MaVU?u@B~02r"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="device_build_image" id="./Pu6CU7YHYsO_q}uGep"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        # . . . #
+        `</field></block></value><value name="offset"><shadow type="math_number" id=",n$|e1vc/U}[O!Zc2p5q"><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="W`|PewX3yD/WjTEJ%$^U"><field name="NUM">400</field></shadow></value></block></statement></block><block type="variables_get" id="YplpL8Ol:}a;-^tPu/Jq" disabled="true" x="182" y="195"><field name="VAR" id=")QG)`6:l%=[#C3q|4!!1">myImage</field></block><block type="device_forever" id="oX@9X*/{@UKvE1+a%pDc" x="5" y="393"></block></xml>
